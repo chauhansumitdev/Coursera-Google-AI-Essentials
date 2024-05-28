@@ -1,0 +1,26 @@
+cogenitive task - tasks that involve thinking reasoning and questioning
+
+ai - artificial intelligence
+computer programs that can complete cogenitive tasks assiciated with human intelligence.
+
+ai >> ml -- data + training
+
+Generative ai -
+ai that can generate new content , this content can be of any form -- text, video graphics etc
+
+gemini + gmail + --- basics etc
+
+
+prmopt engineering
+
+llm -- large language models - an ai model that is trained on large amount of text to identify the patterns between text phrases etc to obtain meaningful insights and data.
+
+** hallunications -- ai outputs that are not ture**
+
+-- prompts should be specific and must contain all the relevent info
+-- shot -- in prompt engineering it means example.
+0 shot -- prompting without any example .. 1 shot -- prompting with one example 
+
+AI development 
+AI uses
+AI biases
